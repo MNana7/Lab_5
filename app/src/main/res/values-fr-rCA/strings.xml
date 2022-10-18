@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CST2335 Lab 5</string>
+    <string name="add_item">AJOUTER UN ITEM</string>
+    <string name="urgent">URGENT</string>
+    <string name="message">La ligne sélectionnée est :</string>
+    <string name="Title">Voulez-vous supprimer ceci ?</string>
+</resources>
